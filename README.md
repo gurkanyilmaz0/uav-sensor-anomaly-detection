@@ -6,7 +6,7 @@
 
 This repository contains a Machine Learning pipeline designed for **Unmanned Aerial Vehicles (UAVs) and autonomous platforms** to detect sensor and telemetry anomalies before critical hardware failures occur. 
 
-By analyzing real-time-like telemetry data (such as temperature, torque, and RPM), this project aims to implement a **Predictive Maintenance** architecture, which is a crucial safety standard in the defense and aerospace industries.sss
+By analyzing real-time-like telemetry data (such as temperature, torque, and RPM), this project aims to implement a **Predictive Maintenance** architecture, which is a crucial safety standard in the defense and aerospace industries.ssssss
 
 ## 📌 Project Overview
 In autonomous systems, sudden hardware failures (e.g., motor stalling or overheating) can lead to catastrophic accidents. This project utilizes historical sensor data to train classification models capable of identifying abnormal patterns that precede a failure.
